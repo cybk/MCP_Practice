@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug MCP Server",
+      "type": "Python",
+      "request": "launch",
+      "program": "Mcp_Test_Server.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
